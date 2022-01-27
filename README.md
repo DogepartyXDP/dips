@@ -13,3 +13,4 @@ Those proposing changes should consider that ultimately consent may rest with th
 Number            | Title                                      | Owner                                 | Type          | Status        |
 -------------     | -------------------------------------------| ------------------------------------- | ------------- | ------------- |
 [1](dip-0001.md)  | DIP Purpose and Guidelines                 | Jeremy Johnson                        | Process       | Active        |
+[2](dip-0002.md)  | DIP Implementation Bounties                | Robby Dermody                         | Process       | Accepted      |
