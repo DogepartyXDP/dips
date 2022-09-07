@@ -15,3 +15,4 @@ Number            | Title                                      | Owner          
 [1](dip-0001.md)  | DIP Purpose and Guidelines                 | Jeremy Johnson                        | Process       | Active        |
 [2](dip-0002.md)  | DIP Implementation Bounties                | Robby Dermody                         | Process       | Accepted      |
 [3](dip-0003.md)  | Reset Token & Divisibility Statuses        | JP Janssen                            | Standards     | Accepted      |
+[4](dip-0004.md)  | Oracled dispensers                  | John Villar, Jeremy Johnson, & Javier Varona | Standards     | Final         |
